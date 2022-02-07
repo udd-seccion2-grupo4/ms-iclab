@@ -1,3 +1,3 @@
 library 'pipeline'
 
-ejecucion.call("maven")
+ejecucion.call("gradle")
